@@ -1,0 +1,13 @@
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\obj\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.csproj.CoreCompileInputs.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\obj\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.RazorAssemblyInfo.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\obj\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.RazorAssemblyInfo.cs
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\obj\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.AssemblyInfoInputs.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\obj\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.AssemblyInfo.cs
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\bin\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.deps.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\bin\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.runtimeconfig.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\bin\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.runtimeconfig.dev.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\bin\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.dll
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\bin\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.pdb
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\obj\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.RazorTargetAssemblyInfo.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\obj\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.dll
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Authentication.API\obj\Debug\netcoreapp2.2\JWTSandbox.Authentication.API.pdb

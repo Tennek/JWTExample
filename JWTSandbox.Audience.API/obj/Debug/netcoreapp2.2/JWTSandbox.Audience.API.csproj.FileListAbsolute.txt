@@ -1,0 +1,13 @@
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\bin\Debug\netcoreapp2.2\JWTSandbox.Audience.API.deps.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\bin\Debug\netcoreapp2.2\JWTSandbox.Audience.API.runtimeconfig.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\bin\Debug\netcoreapp2.2\JWTSandbox.Audience.API.runtimeconfig.dev.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\bin\Debug\netcoreapp2.2\JWTSandbox.Audience.API.dll
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\bin\Debug\netcoreapp2.2\JWTSandbox.Audience.API.pdb
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\obj\Debug\netcoreapp2.2\JWTSandbox.Audience.API.csproj.CoreCompileInputs.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\obj\Debug\netcoreapp2.2\JWTSandbox.Audience.API.RazorAssemblyInfo.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\obj\Debug\netcoreapp2.2\JWTSandbox.Audience.API.RazorAssemblyInfo.cs
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\obj\Debug\netcoreapp2.2\JWTSandbox.Audience.API.AssemblyInfoInputs.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\obj\Debug\netcoreapp2.2\JWTSandbox.Audience.API.AssemblyInfo.cs
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\obj\Debug\netcoreapp2.2\JWTSandbox.Audience.API.RazorTargetAssemblyInfo.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\obj\Debug\netcoreapp2.2\JWTSandbox.Audience.API.dll
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Audience.API\obj\Debug\netcoreapp2.2\JWTSandbox.Audience.API.pdb

@@ -1,0 +1,13 @@
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\bin\Debug\netcoreapp2.2\JWTSandbox.Client.API.deps.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\bin\Debug\netcoreapp2.2\JWTSandbox.Client.API.runtimeconfig.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\bin\Debug\netcoreapp2.2\JWTSandbox.Client.API.runtimeconfig.dev.json
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\bin\Debug\netcoreapp2.2\JWTSandbox.Client.API.dll
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\bin\Debug\netcoreapp2.2\JWTSandbox.Client.API.pdb
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\obj\Debug\netcoreapp2.2\JWTSandbox.Client.API.csproj.CoreCompileInputs.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\obj\Debug\netcoreapp2.2\JWTSandbox.Client.API.RazorAssemblyInfo.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\obj\Debug\netcoreapp2.2\JWTSandbox.Client.API.RazorAssemblyInfo.cs
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\obj\Debug\netcoreapp2.2\JWTSandbox.Client.API.AssemblyInfoInputs.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\obj\Debug\netcoreapp2.2\JWTSandbox.Client.API.AssemblyInfo.cs
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\obj\Debug\netcoreapp2.2\JWTSandbox.Client.API.RazorTargetAssemblyInfo.cache
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\obj\Debug\netcoreapp2.2\JWTSandbox.Client.API.dll
+C:\Users\dev.eetvek\source\repos\JWTSandbox\JWTSandbox.Client.API\obj\Debug\netcoreapp2.2\JWTSandbox.Client.API.pdb
